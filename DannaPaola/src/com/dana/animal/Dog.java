@@ -16,6 +16,7 @@ public class Dog
 			return "Muy Inteligente Y bonita";
 		}
 		{
+			System.out.println("Test logging...");
 			return "Fea y aburrida dana paola.....";
 		}
 	 	
