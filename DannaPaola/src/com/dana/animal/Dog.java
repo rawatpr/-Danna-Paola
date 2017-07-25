@@ -16,7 +16,7 @@ public class Dog
 			return "Muy Inteligente Y bonita";
 		}
 		{
-			return "Fea y aburrida";
+			return "Fea y aburrida dana paola.....";
 		}
 	 	
 	}
